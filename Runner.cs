@@ -7,12 +7,12 @@ namespace test.Runner
     class Run
     {
         private IWebDriver driver;
-        Helpers.Utilities _utils;
+        Utilities _utils;
         String tagname = "tag-main-tab";
 
         public Run()
         {
-            _utils = new Helpers.Utilities();
+            _utils = new Utilities();
         }
 
         public void ClickElementWithShadowRootUsingLink()
