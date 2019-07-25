@@ -18,7 +18,7 @@ namespace test.Runner
         public void ClickElementWithShadowRootUsingLink()
         {
             var links = _utils.GetRoot(driver, tagname).FindElements(By.CssSelector("a"));
-            util.jsClickelement(links[0],driver);
+            _utils.jsClickelement(links[0],driver);
         }
 
         public void Setup()
