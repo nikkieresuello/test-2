@@ -11,45 +11,45 @@
 	
 	"RR_GAME_URL":
     [
-        {"url": "https://calendar.google.com/calendar/r"}////dunno
+        {"url": "https://calendar.google.com/calendar/r"}
     ],
 	
 	
 	  "RR_STREAM_URL_1_1":
     [
-        {"operator": "CLUBW88", "language":"zh-cn", "url": "rtsp://54.254.172.189/etable400svrm/400SVRc919ff1c26"} //red stage
+        {"operator": "CLUBW88", "language":"zh-cn", "url": "rtsp://54.254.172.189/etable400svrm/400SVRc919ff1c26"} 
 	
     ],
 	
 	  "RR_STREAM_URL_1_2":
     [
-        {"operator": "CLUBW88", "language":"vi-vn", "url": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"} //blue stage
+        {"operator": "CLUBW88", "language":"vi-vn", "url": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"} 
     ],
 	
 	  "RR_STREAM_URL_1_3":
     [
-        {"operator": "CLUBW88", "language":"ko-kr", "url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"} //blue machine 1
+        {"operator": "CLUBW88", "language":"ko-kr", "url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"} 
     ],
 	
 	  "RR_STREAM_URL_1_4":
     [
-        {"operator": "CLUBW88", "language":"th-th", "url": "rtsp://54.254.172.189/etable402m/402L1DBACB829DB"} //blue mahine 2
+        {"operator": "CLUBW88", "language":"th-th", "url": "rtsp://54.254.172.189/etable402m/402L1DBACB829DB"} 
     ],  
 	
 	 "RR_STREAM_URL_1_5":
 	[
-        {"operator": "CLUBW88", "language":"id-id", "url": "rtsp://54.254.172.189/etable403m/403L10FEABA8AB8"} //blue mahine 3 
+        {"operator": "CLUBW88", "language":"id-id", "url": "rtsp://54.254.172.189/etable403m/403L10FEABA8AB8"} 
     ],
 	
 	
 	  "RR_STAGE_URL_1":
     [
-        {"operator": "CLUBW88", "language":"ja-jp", "url": "rtsp://54.254.172.189/etable400LM/400LMac65b00eb8"} //lobby
+        {"operator": "CLUBW88", "language":"ja-jp", "url": "rtsp://54.254.172.189/etable400LM/400LMac65b00eb8"} 
     ],
 	
 	"RR_LOBBY_STREAM_URL":
     [
-        {"url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} //red mahine 1
+        {"url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} 
     ],
 	
     "RR_RULE_URL":
