@@ -6,7 +6,7 @@
     
     "RR_RULE_URL":
     [
-        {"operator": "CLUBW88", "language":"en-us", "url": "https://www.google.com.ph/"}
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://www.apple.com/"}
     ],
     "RR_LOBBY_STREAM_URL":
     [
@@ -18,6 +18,6 @@
     ],
     "RR_STREAM_URL_1_1":
     [
-        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/@etable409m/409L11563EB8BF4"}
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable409m/409L11563EB8BF4"}
     ]
 }
