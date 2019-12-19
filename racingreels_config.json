@@ -1,7 +1,7 @@
 {
     "RR_WS_URL":
     [
-        {"url": "ws://casino.w88uat.com/videoracing-dev/playerServer"}
+        {"url": "ws://casino.w88uat.com/videoracing/playerServer"}
     ],
     
 	"RR_DEALER_URL":
