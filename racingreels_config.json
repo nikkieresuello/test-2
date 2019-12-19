@@ -4,20 +4,92 @@
         {"url": "ws://casino.w88uat.com/videoracing/playerServer"}
     ],
     
+	"RR_DEALER_URL":
+    [
+        {"url": "http://casino.w88uat.com/racing/videoconsoles-dev/preloader.html"}
+    ],
+	
+	"RR_GAME_URL":
+    [
+        {"url": "https://calendar.google.com/calendar/r"}
+    ],
+	
+	
+	  "RR_STREAM_URL_1_1":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://shopee.ph/search?keyword=etude%20lip%20tint"}
+    ],
+	
+	  "RR_STREAM_URL_1_2":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://shopee.ph/maybellineofficialstore"}
+    ],
+	
+	  "RR_STREAM_URL_1_3":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://shopee.ph/Essence-I-Love-Extreme-Volume-Waterproof-Mascara-i.3464265.1886087072"}
+    ],
+	
+	  "RR_STREAM_URL_1_4":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://twitter.com/home"}
+    ],  
+	
+	 "RR_STREAM_URL_1_5":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://twitter.com/ArianaGrande/status/1207383773395898368"}
+    ],
+	
+	  "RR_STREAM_URL_1_6":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://twitter.com/dangerousbaee/status/1207384032197169155"}
+    ],
+	
+	  "RR_STREAM_URL_1_7":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "pinterest.ph/pin/61361613657598146/?lp=true"}
+    ],
+	
+	  "RR_STREAM_URL_1_8":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://shopee.ph/colourettecosmeticsofficial?smtt=201.36123"}
+    ],
+	
+	 "RR_STREAM_URL_1_9":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://github.com/ProjectSoftwareDeveloper/BugTrackingCsn/issues/3720"}
+    ],
+	
+	"RR_STREAM_URL_1_10":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://tools.pingdom.com/"}
+    ],
+	
+	"RR_STREAM_URL_1_11":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://shopee.ph/Essence-I-Love-Extreme-Volume-Waterproof-Mascara-i.3464265.1886087072"}
+    ],
+	
+	"RR_STREAM_URL_1_12":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://twitter.com/dangerousbaee"}
+    ],
+	
+	  "RR_STAGE_URL_1":
+    [
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://www.google.com.ph/"}
+    ],
+	
+	"RR_LOBBY_STREAM_URL":
+    [
+        {"url": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCGzKNlMMXWtrCHxRhgCjqsnJ"}
+    ],
+	
     "RR_RULE_URL":
     [
-        {"operator": "CLUBW88", "language":"en-us", "url": "https://www.apple.com/"}
+        {"operator": "CLUBW88", "language":"en-us", "url": "https://drive.google.com/drive/folders/1UAnTXyl3AtCP0j6zN951DREkayCm809v"}
     ],
-    "RR_LOBBY_STREAM_URL":
-    [
-        {"url": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"}
-    ],
-    "RR_STAGE_URL_1":
-    [
-        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable412m/412L103B32E1AF5"}
-    ],
-    "RR_STREAM_URL_1_1":
-    [
-        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable409m/409L11563EB8BF4"}
-    ]
+   
+  
+    
 }
