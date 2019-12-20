@@ -9,11 +9,7 @@
         {"url": "http://casino.w88uat.com/racing/videoconsoles/preloader.html?d=yhttp://casino.w88uat.com/racing/videoconsoles/preloader.html?d=y"}
     ],
 	
-	"RR_GAME_URL_1":
-    [
-	 {"operator": "CLUBW88", "language":"en-us", "url": "https://p.bigstockphoto.com/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg"} 
-        
-    ],
+	
 	
 	
 	  "RR_STREAM_URL_1_1":
@@ -29,7 +25,7 @@
 	
 	  "RR_STREAM_URL_1_3":
     [
-        {"operator": "CLUBW88", "language":"ja-jp", "url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"} 
+        {"operator": "CLUBW88", "language":"ko-kr", "url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"} 
     ],
 	
 	  "RR_STREAM_URL_1_4":
@@ -42,15 +38,49 @@
         {"operator": "CLUBW88", "language":"id-id", "url": "rtsp://54.254.172.189/etable403m/403L10FEABA8AB8"} 
     ],
 	
+	 "RR_STREAM_URL_1_6":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} 
+    ],
+	
+	 "RR_STREAM_URL_1_7":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable414m/414L1ECCECC1409"} 
+    ],
+	
+	 "RR_STREAM_URL_1_8":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable415m/415L1D6ED24B716"} 
+    ],
+	
+	 "RR_STREAM_URL_1_9":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable416m/416L1CBBC148B88"} 
+    ],
+	
+	 "RR_STREAM_URL_1_10":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable417m/417L14960C887ED"} 
+    ],
+	
+	 "RR_STREAM_URL_1_11":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable418m/418L18827000C8B"}  
+    ],
+	
+	 "RR_STREAM_URL_1_12":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable419m/419L15F7C5C0B5F"} 
+    ],
+	
 	
 	  "RR_STAGE_URL_1":
     [
-        {"operator": "CLUBW88", "language":"ja-jp", "url": "rtsp://54.254.172.189/etable400LM/400LMac65b00eb8"} 
-    ],
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable400LM/400LMac65b00eb8"} 
 	
 	"RR_LOBBY_STREAM_URL":
     [
-        {"url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} 
+        {"url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} //red mahine 1
     ],
 	
     "RR_RULE_URL":
