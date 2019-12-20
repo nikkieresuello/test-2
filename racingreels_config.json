@@ -10,85 +10,83 @@
     ],
 	
 	
-	
-	  "RR_STREAM_URL_1_1":
+	  "RR_STREAM_URL_2_1":
     [
-        {"operator": "CLUBW88", "language":"zh-cn", "url": "rtsp://54.254.172.189/etable400svrm/400SVRc919ff1c26"} 
-	
-    ],
-	
-	  "RR_STREAM_URL_1_2":
-    [
-        {"operator": "CLUBW88", "language":"vi-vn", "url": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"} 
-    ],
-	
-	  "RR_STREAM_URL_1_3":
-    [
-        {"operator": "CLUBW88", "language":"ko-kr", "url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"} 
-    ],
-	
-	  "RR_STREAM_URL_1_4":
-    [
-        {"operator": "CLUBW88", "language":"th-th", "url": "rtsp://54.254.172.189/etable402m/402L1DBACB829DB"} 
-    ],  
-	
-	 "RR_STREAM_URL_1_5":
-	[
-        {"operator": "CLUBW88", "language":"id-id", "url": "rtsp://54.254.172.189/etable403m/403L10FEABA8AB8"} 
-    ],
-	
-	 "RR_STREAM_URL_1_6":
-	[
         {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} 
+	
     ],
 	
-	 "RR_STREAM_URL_1_7":
-	[
+	  "RR_STREAM_URL_2_2":
+    [
         {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable414m/414L1ECCECC1409"} 
     ],
 	
-	 "RR_STREAM_URL_1_8":
-	[
+	  "RR_STREAM_URL_2_3":
+    [
         {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable415m/415L1D6ED24B716"} 
     ],
 	
-	 "RR_STREAM_URL_1_9":
-	[
+	  "RR_STREAM_URL_2_4":
+    [
         {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable416m/416L1CBBC148B88"} 
-    ],
+    ],  
 	
-	 "RR_STREAM_URL_1_10":
+	 "RR_STREAM_URL_2_5":
 	[
         {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable417m/417L14960C887ED"} 
     ],
 	
-	 "RR_STREAM_URL_1_11":
+	 "RR_STREAM_URL_2_6":
 	[
-        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable418m/418L18827000C8B"}  
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable418m/418L18827000C8B"} 
     ],
 	
-	 "RR_STREAM_URL_1_12":
+	 "RR_STREAM_URL_2_7":
 	[
         {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable419m/419L15F7C5C0B5F"} 
     ],
 	
+	 "RR_STREAM_URL_2_8":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable400svrm/400SVRc919ff1c26"} 
+    ],
+	
+	 "RR_STREAM_URL_2_9":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"} 
+    ],
+	
+	 "RR_STREAM_URL_2_10":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"} 
+    ],
+	
+	 "RR_STREAM_URL_2_11":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable402m/402L1DBACB829DB"}  
+    ],
+	
+	 "RR_STREAM_URL_2_12":
+	[
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable403m/403L10FEABA8AB8"} 
+    ],
+	
 
-	  "RR_STAGE_URL_1":
+	  "RR_STAGE_URL_2":
     [
-        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable400LM/400LMac65b00eb8"} 
+        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} 
 		
 	],
 	
 	"RR_LOBBY_STREAM_URL":
     [
-        {"url": "rtsp://54.254.172.189/etable413m/413L10D6A1FFBE6"} 
+        {"url": "rtsp://54.254.172.189/etable402m/402L1DBACB829DB"} 
     ],
 	
     "RR_RULE_URL":
     [
         {"operator": "CLUBW88", "language":"en-us", "url": "https://info.gpiops.com/share/rules-live-casino-en.shtml#5"}
-    ],
+    ]
    
   
-    
 }
