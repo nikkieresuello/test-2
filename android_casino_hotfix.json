@@ -14,7 +14,7 @@
 	
     "REELS_RULES_URL":
 		[
-			{"lang":"en-us", "data": "https://info.gpiops.com/share/rules-live-casino-en.shtml"},
+			{"lang":"en-us", "data": "https://www.google.com"},
 			{"lang":"id-id", "data": "https://info.gpiops.com/share/rules-live-casino-id.shtml"},
 			{"lang":"ja-jp", "data": "https://info.gpiops.com/share/rules-live-casino-jp.shtml"},
 			{"lang":"km-kh", "data": "https://info.gpiops.com/share/rules-live-casino-kh.shtml"},
