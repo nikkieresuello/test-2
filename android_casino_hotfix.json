@@ -4,21 +4,27 @@
     [
         {"data": "rtsp://54.254.172.189/etable410m/410L10C93416EBF"}
     ],
+	
+	"REELS_TABLE2_MAIN_VIDEO":
+    [
+        {"data": "rtsp://54.254.172.189/etable410m/410L10C93416EBF"}
+		
+	],
 	"REELS_TABLE2_STAGE":
     [
         {"data": "rtsp://54.254.172.189/etable414m/414L1ECCECC1409"}
     ],
 	
-     "REELS_RULES_URL":
+    "REELS_RULES_URL":
 		[
-			{"lang":"en-us", "data": "https://info.gpiops.com/share/rules-keno-en.shtml"},
-			{"lang":"id-id", "data": "https://info.gpiops.com/share/rules-keno-id.shtml"},
-			{"lang":"ja-jp", "data": "https://info.gpiops.com/share/rules-keno-jp.shtml"},
-			{"lang":"km-kh", "data": "https://info.gpiops.com/share/rules-keno-kh.shtml"},
-			{"lang":"th-th", "data": "https://info.gpiops.com/share/rules-keno-th.shtml"},
-			{"lang":"ko-kr", "data": "https://info.gpiops.com/share/rules-keno-kr.shtml"},
-			{"lang":"vi-vn", "data": "https://info.gpiops.com/share/rules-keno-vn.shtml"},
-			{"lang":"zh-cn", "data": "https://info.gpiops.com/share/rules-keno-cs.shtml"}
+			{"lang":"en-us", "data": "https://info.gpiops.com/share/lottery/rules-keno-en.shtml"},
+			{"lang":"id-id", "data": "https://info.gpiops.com/share/lottery/rules-keno-id.shtml"},
+			{"lang":"ja-jp", "data": "https://info.gpiops.com/share/lottery/rules-keno-jp.shtml"},
+			{"lang":"km-kh", "data": "https://info.gpiops.com/share/lottery/rules-keno-kh.shtml"},
+			{"lang":"th-th", "data": "https://info.gpiops.com/share/lottery/rules-keno-th.shtml"},
+			{"lang":"ko-kr", "data": "https://info.gpiops.com/share/lottery/rules-keno-kr.shtml"},
+			{"lang":"vi-vn", "data": "https://info.gpiops.com/share/lottery/rules-keno-vn.shtml"},
+			{"lang":"zh-cn", "data": "https://info.gpiops.com/share/lottery/rules-keno-cs.shtml"}
 		],
 	
 		
