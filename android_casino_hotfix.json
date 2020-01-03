@@ -4,10 +4,10 @@
   		{"data": ["ws://casino.w88uat.com/videoracing-dev/playerServer"]}
     ],
     
-	"REELS_LOBBY VIDEO":
+    "REELS_TABLE1_MAIN_VIDEO":
     [
-        {"data": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"}
-    ],
+	{"data": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"}
+    ]
 	"REELS_TABLE1_STAGE":
     [
         {"data": "rtsp://54.254.172.189/etable400LM/400LMac65b00eb8"}
