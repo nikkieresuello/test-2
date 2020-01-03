@@ -9,9 +9,9 @@
         {"data": "rtsp://54.254.172.189/etable414m/414L1ECCECC1409"}
     ],
 	
-    "REELS_RULES_URL":
+     "REELS_RULES_URL":
 		[
-			{"data": "https://info.gpiops.com/share/rules-live-casino-en.shtml"},
+			{"lang":"en-us", "data": "https://info.gpiops.com/share/rules-keno-en.shtml"},
 			{"lang":"id-id", "data": "https://info.gpiops.com/share/rules-keno-id.shtml"},
 			{"lang":"ja-jp", "data": "https://info.gpiops.com/share/rules-keno-jp.shtml"},
 			{"lang":"km-kh", "data": "https://info.gpiops.com/share/rules-keno-kh.shtml"},
