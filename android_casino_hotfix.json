@@ -3,7 +3,6 @@
     [
   		{"data": ["ws://casino.w88uat.com/videoracing-dev/playerServer"]}
     ],
-    
     "REELS_TABLE1_MAIN_VIDEO":
     [
 	{"data": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"}
