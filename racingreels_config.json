@@ -1,2 +1,6 @@
 {
+   "RR_WS_URL":
+    [
+        {"url": "ws://casino.w88uat.com/videoracing/playerServer"}
+    ],
 }
