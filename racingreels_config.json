@@ -1,4 +1,3 @@
-
 {
     "RR_WS_URL":
     [
@@ -11,17 +10,14 @@
     ],
     "RR_LOBBY_STREAM_URL":
     [
-        {"url": "rtsp://54.254.172.189/etable400svbm/400SVBac08ce801d"}
+        {"url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"}
     ],
     "RR_STAGE_URL_1":
     [
         {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable412m/412L103B32E1AF5"}
     ],
 	
-	"RR_GAME_URL":
-    [
-        {"url": "https://raw.githubusercontent.com/mimoypanot/test/41061c9d2bd00e192bcb2d8e57ee8edf84261f05/"}
-    ],
+
 	
     "RR_STREAM_URL_1_1":
     [
