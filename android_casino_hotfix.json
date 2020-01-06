@@ -18,7 +18,7 @@
     [
         {"lang":"zh-cn", "data": "rtsp://cdn01-mstream.w2stream.com/etable1m/live_1"}
     ],	
-	"REELS_LOBBY VIDEO":
+	"REELS_TABLE1_MAIN_VIDEO":
     [
         {"lang":"ko-kr", "data": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov"}
     ],
