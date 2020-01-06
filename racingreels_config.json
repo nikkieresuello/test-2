@@ -1,14 +1,2 @@
 {
-    "RR_WS_URL":
-    [
-        {"url": "ws://casino.w88uat.com/videoracing/playerServer"}
-    ],
-    
-    "RR_RULE_URL":
-    [
-        {"operator": "CLUBW88", "language":"en-us", "url": "https://www.google.com.ph/"}
-    ],
- 
-
-
 }
