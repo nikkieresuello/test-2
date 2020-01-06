@@ -8,19 +8,7 @@
     [
         {"operator": "CLUBW88", "language":"en-us", "url": "https://www.google.com.ph/"}
     ],
-    "RR_LOBBY_STREAM_URL":
-    [
-        {"url": "rtsp://54.254.172.189/etable401m/401L18BF7B50D5D"}
-    ],
-    "RR_STAGE_URL_1":
-    [
-        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/etable412m/412L103B32E1AF5"}
-    ],
-	
+ 
 
-	
-    "RR_STREAM_URL_1_1":
-    [
-        {"operator": "CLUBW88", "language":"en-us", "url": "rtsp://54.254.172.189/@etable409m/409L11563EB8BF4"}
-    ]
+
 }
